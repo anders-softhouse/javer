@@ -15,7 +15,12 @@ if ( $args[0] -eq 11 ) {
 }
 
 if ( $args[0] -eq 8 ) {
-  $env:Path = "C:\Program Files\Java\jre1.8.0_333\bin;" + $env:Path
+  $env:Path = " C:\Program Files\Java\jdk1.8.0_201\bin;" + $env:Path
+  Return
+}
+
+if ( $args[0] -eq "corretto" ) {
+  $env:Path = "C:\Program Files\Amazon Corretto\jdk1.8.0_402\bin;" + $env:Path
   Return
 }
 

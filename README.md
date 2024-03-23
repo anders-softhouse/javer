@@ -3,9 +3,11 @@ JAVER
 A simple powershell script to simplify in case you have a lot of java versions ( anything really, but this is what I use it for )
 
 Put this script on your path, edit it to reflect your installed JDK's and then just type ( for example )
+
 **javer 20**
 
 Check your java version using
+
 **java --version**
 
 _java 20.0.2 2023-07-18

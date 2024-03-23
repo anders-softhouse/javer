@@ -1,4 +1,4 @@
-JAVER
+#JAVER
 
 A simple powershell script to simplify in case you have a lot of java versions ( anything really, but this is what I use it for )
 

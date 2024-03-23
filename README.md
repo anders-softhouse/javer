@@ -6,13 +6,12 @@ Put this script on your path, edit it to reflect your installed JDK's and then j
 
 **javer 20**
 
-Check your java version using
-
 **java --version**
 
 _java 20.0.2 2023-07-18
 Java(TM) SE Runtime Environment (build 20.0.2+9-78)
 Java HotSpot(TM) 64-Bit Server VM (build 20.0.2+9-78, mixed mode, sharing)_
+
 
 
 **javer 11**
@@ -22,6 +21,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 20.0.2+9-78, mixed mode, sharing)_
 _java 11.0.15 2022-04-19 LTS
 Java(TM) SE Runtime Environment 18.9 (build 11.0.15+8-LTS-149)
 Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.15+8-LTS-149, mixed mode)_
+
 
 
 **javer corretto**
